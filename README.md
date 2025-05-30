@@ -1,5 +1,10 @@
 # MCP Server with Mem0 for Managing Coding Preferences
 
+> **Note**: This is a forked version from [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) that has been modified to better suit my personal needs. Feel free to use and customize it according to your requirements.
+
+---
+
+
 This demonstrates a structured approach for using an [MCP](https://modelcontextprotocol.io/introduction) server with [mem0](https://mem0.ai) to manage coding preferences efficiently. The server can be used with Cursor and provides essential tools for storing, retrieving, and searching coding preferences.
 
 ## Installation
